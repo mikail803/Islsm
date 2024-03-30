@@ -1,4 +1,4 @@
-const username = "mikail803";
+const username = "Mikailmne";
 const maxPages = 3;
 const hideForks = true;
 const repoList = document.querySelector(".repo-list");
@@ -188,4 +188,5 @@ const devicons = {
   Terraform: '<i class="devicon-terraform-plain colored"></i> Terraform',
   TypeScript: '<i class="devicon-typescript-plain colored"></i> TypeScript',
   "Vim Script": '<i class="devicon-vim-plain colored"></i> Vim Script',
-  Vue: '<i class="devicon-vuejs-plain colored"></i> Vue',
+  Vue: '<i class="devicon-vuejs-plain colored"></i> Vue'
+};
