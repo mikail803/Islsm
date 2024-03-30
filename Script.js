@@ -1,4 +1,4 @@
-const username = "Frid0l1n";
+const username = "mikail803";
 const maxPages = 3;
 const hideForks = true;
 const repoList = document.querySelector(".repo-list");
